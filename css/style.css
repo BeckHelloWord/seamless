@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+img {
+  vertical-align: middle; }
+
+.clearfix::before, .clearfix::after {
+  content: '';
+  display: block;
+  clear: both; }
+
+.banner {
+  width: 620px;
+  height: 210px;
+  margin: 100px auto;
+  overflow: hidden; }
+  .banner .banner-list {
+    position: relative; }
+    .banner .banner-list div {
+      float: left; }
+
+/*# sourceMappingURL=style.css.map */
