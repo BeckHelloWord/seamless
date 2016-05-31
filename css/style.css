@@ -11,6 +11,7 @@ img {
   clear: both; }
 
 .banner {
+  position: relative;
   width: 620px;
   height: 210px;
   margin: 100px auto;
@@ -19,5 +20,34 @@ img {
     position: relative; }
     .banner .banner-list div {
       float: left; }
+  .banner .btn a {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); }
+  .banner .btn a.next {
+    right: 5px; }
+  .banner .btn a.prev {
+    left: 5px; }
+
+.product {
+  position: relative;
+  width: 1082px;
+  height: 302px;
+  margin: 100px auto;
+  border: 1px solid #000;
+  overflow: hidden; }
+  .product .product-list {
+    position: relative; }
+    .product .product-list div {
+      float: left;
+      margin-right: 20px; }
+  .product .btn a {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); }
+  .product .btn a.next {
+    right: 5px; }
+  .product .btn a.prev {
+    left: 5px; }
 
 /*# sourceMappingURL=style.css.map */
