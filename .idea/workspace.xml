@@ -24,8 +24,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+            <state relative-caret-position="1056">
+              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
               <folding>
                 <element signature="e#280#344#0" expanded="false" />
               </folding>
@@ -36,8 +36,8 @@
       <file leaf-file-name="产品图.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/产品图.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192">
-              <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+            <state relative-caret-position="340">
+              <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="101" selection-end-column="14" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -48,10 +48,10 @@
       <file leaf-file-name="ListRun.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/ListRun.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+            <state relative-caret-position="408">
+              <caret line="23" column="76" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
               <folding>
-                <element signature="e#713#1302#0" expanded="false" />
+                <element signature="e#817#1406#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -81,8 +81,8 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/comm.js" />
         <option value="$PROJECT_DIR$/console.html" />
-        <option value="$PROJECT_DIR$/产品图.html" />
         <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/产品图.html" />
         <option value="$PROJECT_DIR$/js/ListRun.js" />
       </list>
     </option>
@@ -123,7 +123,7 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="false" />
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
@@ -145,6 +145,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="seamless" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seamless" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seamless" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,15 +258,15 @@
       <workItem from="1464830758847" duration="10000" />
       <workItem from="1464831124937" duration="1329000" />
       <workItem from="1464834492184" duration="3624000" />
-      <workItem from="1464932401189" duration="3936000" />
+      <workItem from="1464932401189" duration="5341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41972000" />
+    <option name="totallyTimeSpent" value="43377000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17175975" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -319,7 +333,7 @@
         <state relative-caret-position="600">
           <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
           <folding>
-            <element signature="e#713#1302#0" expanded="false" />
+            <element signature="e#817#1406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -339,7 +353,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#713#1302#0" expanded="false" />
+            <element signature="e#817#1406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -377,7 +391,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#713#1302#0" expanded="false" />
+            <element signature="e#817#1406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -415,7 +429,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#713#1302#0" expanded="false" />
+            <element signature="e#817#1406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -460,7 +474,7 @@
         <state relative-caret-position="336">
           <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
           <folding>
-            <element signature="e#713#1302#0" expanded="false" />
+            <element signature="e#817#1406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -497,7 +511,7 @@
         <state relative-caret-position="336">
           <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
           <folding>
-            <element signature="e#713#1302#0" expanded="false" />
+            <element signature="e#817#1406#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -565,16 +579,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/console.html" />
-    <entry file="file://$PROJECT_DIR$/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-          <folding>
-            <element signature="e#280#344#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/单图.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -583,10 +587,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding>
+            <element signature="e#280#344#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/产品图.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+        <state relative-caret-position="340">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="101" selection-end-column="14" />
           <folding>
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
@@ -595,10 +609,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/ListRun.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        <state relative-caret-position="408">
+          <caret line="23" column="76" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="76" />
           <folding>
-            <element signature="e#713#1302#0" expanded="false" />
+            <element signature="e#817#1406#0" expanded="false" />
           </folding>
         </state>
       </provider>
